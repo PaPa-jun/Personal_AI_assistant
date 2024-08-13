@@ -1,0 +1,5 @@
+**/test.py
+**/.Ds_Store
+volumes/**
+docker-compose.yml
+**/__pycache__/**
