@@ -1,1 +1,1 @@
-from .milvus import Database
+from .milvus import Milvus

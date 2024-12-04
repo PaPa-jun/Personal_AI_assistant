@@ -1,1 +1,1 @@
-from .pdf import PDFParser
+from .parser import DocumentParser

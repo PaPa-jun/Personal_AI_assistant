@@ -1,7 +1,7 @@
 from pymilvus import connections, db
 from flask import Flask
 
-class Database:
+class Milvus:
     """
     # Milvus DataBase
     """
